@@ -12,6 +12,10 @@ class panel {
         document.querySelector(".w3-button").style.display = "block";
     }
 
+    bckColor(evt){
+
+        document.getElementById("hote_panel").style.backgroundColor= evt;
+    }
 
 
 }
