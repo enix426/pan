@@ -11,14 +11,16 @@ console.log(close);
 
 
   
- menuHamburger = document.addEventListener("click", function(){
+ menuHamburger.addEventListener("click", function(){
     pan.open();
   });
 
-  close = document.addEventListener("click", function(){
+  close.addEventListener("click", function(){
     pan.close();
 
   });
+
+
 
 
 
