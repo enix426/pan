@@ -1,0 +1,14 @@
+#hote_panel{width: 200px;
+height: 200px;
+background-color: grey;
+z-index: 1;
+display: none;
+position: relative;
+animation: animateleft 0.4s;
+}
+
+
+
+.w3-button w3-white w3-xxlarge{
+    display: block;
+}
